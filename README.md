@@ -10,4 +10,4 @@
 - Sort by patient name
 - Sort by patient registration date 
 ### Future work:
-- Add a GUI in Python
+- Add GUI
